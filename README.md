@@ -1,6 +1,9 @@
 # Phone Orientation Detection
 
 ### How does that example work?
+Open following page on your mobile phone: http://weiland.github.io/device-orientation/
+(we need deviceorientation eventlistener support)
+
 First put your phone on your table. (one should see the earthball)
 Then start rotating your phone.
 
