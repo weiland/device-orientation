@@ -1,4 +1,4 @@
-# Phone Orientation Detectio
+# Phone Orientation Detection
 
 ### How does that example work?
 First put your phone on your table. (one should see the earthball)
